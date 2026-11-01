@@ -1,0 +1,13 @@
+# Welcome to Nexus AI OS
+
+Nexus AI OS is a local AI desktop environment engineered for Windows.
+It leverages your local Ollama runtime to understand natural-language commands and execute safe system actions.
+
+## Key Capabilities:
+1. File Intelligence: Search, read, and summarize documents inside approved folders.
+2. System Diagnostics: Read live CPU, RAM, and storage utilization via psutil.
+3. Safe Application Launching: Execute allowlisted applications without arbitrary shell access.
+4. Persistent Task Auditing: Every operation is tracked in SQLite for full transparency.
+
+This document is stored in your default Nexus Workspace.
+
